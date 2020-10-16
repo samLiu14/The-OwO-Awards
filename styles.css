@@ -1,0 +1,22 @@
+img {
+    width:400px;
+}
+h1 {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 100px;
+}
+h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 50px;
+}
+h3 {
+    font-size: 40px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+body {
+    text-align: center;
+    background-image: url(https://media.tenor.com/images/aa6a73249cd96bd7137baf69736d58f9/tenor.gif);
+    background-repeat: repeat-x;
+    background-color: black;
+    color: white;
+}
